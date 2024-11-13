@@ -1,1 +1,27 @@
-
+[ 
+  {
+    "id": 1,
+    "name": "Apple",
+    "description": "This is the description for Apple."
+  },
+  {
+    "id": 2,
+    "name": "Peach",
+    "description": "This is the description for Peach."
+  },
+  {
+    "id": 3,
+    "name": "Kiwi",
+    "description": "This is the description for kiwi."
+  },
+  {
+    "id": 4,
+    "name": "Orange",
+    "description": "This is the description for Orange"
+  },
+   {
+    "id": 5,
+    "name": "Banana",
+    "description": "This is the description for Banana"
+  }
+ ]
